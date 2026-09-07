@@ -15,7 +15,7 @@ Portal académico personal de Roberto Aguilar Gómez, preparado como sitio web i
 - `index.html`: estructura y textos del portal.
 - `styles.css`: diseño, colores y adaptación para teléfonos.
 - `script.js`: menú móvil y buscador interno.
-- `assets/`: imágenes y favicon.
+- `biblioteca-editorial.png`, `investigacion-editorial.png` y `favicon.svg`: imágenes e icono del portal.
 
 ## Actualizar contenidos
 
@@ -30,4 +30,4 @@ No se incluyó una contraseña simulada en esta versión estática. Un panel rea
 
 ## Buscadores
 
-Después de definir la dirección pública se añadirán `sitemap.xml`, `robots.txt`, la dirección canónica y la verificación de Google Search Console con el dominio definitivo.
+La dirección pública es `https://investigador-del-iie.pages.dev/`. El repositorio incluye `sitemap.xml`, `robots.txt` y la dirección canónica. La verificación de Google Search Console se añadirá cuando Google proporcione el código correspondiente.
